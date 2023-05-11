@@ -1,6 +1,6 @@
 # Wagar Meilech
 
-![Wagar Meilech Logo](./assets/logo.png)
+![Wagar Meilech Logo](/profile/assets/logo.png)
 
 Wagar Meilech is an innovative AI and Systems Engineering and Design company based in Seattle, WA. We focus on creating cutting-edge AI products and cloud systems for businesses, students, developers, and more. Our team boasts over twenty years of combined experience in software and AI, making us a leading force in the emerging AI industry.
 
