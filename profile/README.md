@@ -43,4 +43,4 @@ While our repositories are mostly private, we occasionally release open-source p
 
 ## License
 
-This README.md is licensed under the [MIT License](./LICENSE).
+This README.md is licensed under the [MIT License](/LICENSE).
